@@ -1,0 +1,11 @@
+# 검토한 공개 파일만 허용
+/*
+!/.gitignore
+!/AGENTS.md
+!/RESEARCH_PLAN_AGENT.md
+!/LITERATURE_SEARCH_AGENT.md
+!/PDF_PARSER_AGENT.md
+!/README.md
+!/examples/
+/examples/*
+!/examples/scenarios.md
